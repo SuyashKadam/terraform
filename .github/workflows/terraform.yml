@@ -8,6 +8,7 @@ on:
     branches:
       - main
 
+
 jobs:
   terraform:
     name: Terraform Format Validate Plan
